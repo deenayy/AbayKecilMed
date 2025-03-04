@@ -7,7 +7,6 @@ body {
     overflow-x: hidden; /* Ubah jadi hanya hidden horizontal */
     overflow-y: auto; /* Biar bisa scroll ke bawah */
     position: relative;
-    touch-action: none; /* Mencegah zoom */
     min-height: 100vh; /* Biar ga kepotong di layar kecil */
 }
 
