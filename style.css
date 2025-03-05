@@ -31,7 +31,7 @@ body {
     justify-content: center;
     align-items: center;
     margin-bottom: 40px;
-    font-size: clamp(30px, 5vw, 30px); /* Ukuran fleksibel */
+    font-size: clamp(23px, 5vw, 30px); /* Ukuran fleksibel */
     white-space: nowrap; /* Mencegah teks terpotong ke baris baru */
     max-width: 500px;
 }
